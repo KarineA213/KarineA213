@@ -14,7 +14,7 @@
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
 Sou estudante de Engenharia de Software, formada em Análise e Desenvolvimento de Sistemas e com grande interesse no desenvolvimento back-end. Tenho me dedicado a aprender **Java com Spring Boot** e já desenvolvi pequenos projetos integrando front-end básico com banco de dados MySQL.
 
@@ -40,13 +40,13 @@ Atualmente estudo na **DevSuperior** para aprofundar meus conhecimentos em desen
 
 ### 🎓 Formação Acadêmica
 
-- 💻 **Engenharia de Software** – UNICESUMAR *(em andamento, previsão dez de 2026)*  
-- 🧑‍💻 **Análise e Desenvolvimento de Sistemas** – UNICESUMAR *(concluído)*  
-- 🎓 **Ensino Médio Técnico em Administração** – *(2018)*  
+-  **Engenharia de Software** – UNICESUMAR *(em andamento, previsão dez de 2026)*  
+-  **Análise e Desenvolvimento de Sistemas** – UNICESUMAR *(concluído)*  
+-  **Ensino Médio Técnico em Administração** – *(2018)*  
 
 ---
 
-### 📚 Cursos Complementares
+###  Cursos Complementares
 
 - **Java Back-End** – Oracle Next Education (ONE) – Alura ✔️  
 - **Java com Spring Boot** – DevSuperior (em andamento)  
@@ -56,7 +56,7 @@ Atualmente estudo na **DevSuperior** para aprofundar meus conhecimentos em desen
 
 ---
 
-### 🌱 Atualmente estudando
+###  Atualmente estudando
 
 ```txt
 🔸 Java com Spring Boot
