@@ -32,7 +32,7 @@ Atualmente estudo na **DevSuperior** para aprofundar meus conhecimentos em desen
 | **Banco de Dados**     | MySQL (intermediário)              |
 | **Front-end**          | HTML, CSS                          |
 | **Controle de Versão** | Git                                |
-| **Frameworks Adicionais** | Spring Boot,Angular (em andamento), Entity Framework (em andamento) |
+| **Frameworks Adicionais** | Spring Boot,Angular (em andamento)|
 | **IDEs**               | IntelliJ, Eclipse                  |
 | **Metodologias**       | Kanban, Scrumban                   |
 
