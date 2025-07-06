@@ -29,11 +29,11 @@ Atualmente estudo na **DevSuperior** para aprofundar meus conhecimentos em desen
 | Categoria               | Conhecimentos                      |
 |------------------------|------------------------------------|
 | **Back-end**           | Java, Spring Boot, POO             |
-| **Banco de Dados**     | MySQL (intermediário)              |
+| **Banco de Dados**     | MySQL                              |
 | **Front-end**          | HTML, CSS                          |
 | **Controle de Versão** | Git                                |
 | **Frameworks Adicionais** | Spring Boot,Angular (em andamento)|
-| **IDEs**               | IntelliJ, Eclipse                  |
+| **IDEs**               | IntelliJ, Eclipse, VSCode          |
 | **Metodologias**       | Kanban, Scrumban                   |
 
 ---
