@@ -40,6 +40,7 @@ Atualmente estudo na **DevSuperior** para aprofundar meus conhecimentos em desen
 
 ### 🎓 Formação Acadêmica
 
+-  **Pós-Graduação em Tecnologia JAVA** – UTFPR (UNIVERSIDADE FEDERAL TECNOLÓGICA DO PARANÁ) *(em andamento, previsão dez de 2026)*  
 -  **Engenharia de Software** – UNICESUMAR *(em andamento, previsão dez de 2026)*  
 -  **Análise e Desenvolvimento de Sistemas** – UNICESUMAR *(concluído)*  
 -  **Ensino Médio Técnico em Administração** – *(2018)*  
