@@ -20,7 +20,7 @@ Sou estudante de Engenharia de Software, formada em Análise e Desenvolvimento d
 
 Atualmente estudo na **DevSuperior** para aprofundar meus conhecimentos em desenvolvimento back-end, enquanto complemento minha formação com cursos na **Alura** e **Udemy**.
 
-📌 *Busco uma oportunidade de estágio para aplicar meus conhecimentos em projetos reais, crescer profissionalmente e contribuir com entusiasmo e dedicação.*
+ *Busco uma oportunidade de estágio para aplicar meus conhecimentos em projetos reais, crescer profissionalmente e contribuir com entusiasmo e dedicação.*
 
 ---
 
@@ -38,7 +38,7 @@ Atualmente estudo na **DevSuperior** para aprofundar meus conhecimentos em desen
 
 ---
 
-### 🎓 Formação Acadêmica
+###  Formação Acadêmica
 
 -  **Pós-Graduação em Tecnologia JAVA** – UTFPR (UNIVERSIDADE FEDERAL TECNOLÓGICA DO PARANÁ) *(em andamento, previsão dez de 2026)*  
 -  **Engenharia de Software** – UNICESUMAR *(em andamento, previsão dez de 2026)*  
@@ -49,10 +49,10 @@ Atualmente estudo na **DevSuperior** para aprofundar meus conhecimentos em desen
 
 ###  Cursos Complementares
 
-- **Java Back-End** – Oracle Next Education (ONE) – Alura ✔️  
+- **Java Back-End** – Oracle Next Education (ONE) – Alura 
 - **Java com Spring Boot** – DevSuperior (em andamento)  
-- **HTML & CSS** – Alura e Udemy ✔️  
-- **MySQL** – Alura ✔️  
+- **HTML & CSS** – Alura e Udemy 
+- **MySQL** – Alura 
 - **Inglês Avançado** – CNA e Aulas Particulares
 
 ---
